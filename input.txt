@@ -1,0 +1,6 @@
+Marc credit $2
+Marc debit $1.25
+Marc debit $1
+Marc credit $4
+Bob credit $7
+Sally debit $4
